@@ -22,7 +22,7 @@
 					<style type="text/css">
 						#searchid {
 							height: 17px;
-							width: auto;
+							width: 20px;
 							border-radius: 7px;
 							box-shadow: 0px;
 							text-shadow: none;
@@ -35,7 +35,7 @@
 						}
 						#searchid:hover {
 							height: 17px;
-							width: auto;
+							width: 20px;
 							border-radius: 7px;
 							box-shadow: 0px;
 							text-shadow: none;
