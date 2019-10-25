@@ -9,9 +9,14 @@
 <?php
 $result= $_POST['search'];
 $result= strtolower($result);
-
-if ($result=="dropbox")
-header ('Location: http://www.dropbox.com');
+if ($result=="cattle")
+header ('Location: /?search=cattle');
+	
+if ($result=="horses")
+header ('Location: /?search=horses');
+	
+	if ($result=="home")
+header ('Location: /?search=home');
 ?>
 </body>
 </html>
