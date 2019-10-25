@@ -17,7 +17,7 @@
 			</div>
 			<a href=""><p id="logotop">Bauman Red Angus</p></a>
 			<span id="infotop"><div class="textinfo">
-				<form autocomplete="off" id="searchform" action="/search.php" method="post">
+				<form autocomplete="off" id="searchform" action="search.php" method="post">
 					<input autocomplete="off" id="searchid" type="text" name="search">
 					<style type="text/css">
 						#searchid {
