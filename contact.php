@@ -6,7 +6,7 @@
 	<link rel="stylesheet" type="text/css" href="contactstyle.css">
 </head>
 <header>
-	<p id="menu"><span id="links"><a class="a1" href="/index.html">Home </a>&nbsp;&nbsp;&nbsp;&nbsp; <a class="a1" href="/cattle.html">Cattle </a>&nbsp;&nbsp;&nbsp;&nbsp; <a class="a1" href="/horses.html">Horses </a>&nbsp;&nbsp;&nbsp; <a class="a1" href="">Contact Us </a>&nbsp;&nbsp;&nbsp; <a class="a1" href="/about.html">About Us</a></span><img id="menulogo" src="images/menu.png"></p>
+	<p id="menu"><span id="links"><a class="a1" href="/index.php">Home </a>&nbsp;&nbsp;&nbsp;&nbsp; <a class="a1" href="/cattle.php">Cattle </a>&nbsp;&nbsp;&nbsp;&nbsp; <a class="a1" href="/horses.php">Horses </a>&nbsp;&nbsp;&nbsp; <a class="a1" href="">Contact Us </a>&nbsp;&nbsp;&nbsp; <a class="a1" href="/about.php">About Us</a></span><img id="menulogo" src="images/menu.png"></p>
 </header>
 <body>
 	<div class="main">
