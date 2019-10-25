@@ -10,8 +10,8 @@
 $result= $_POST['search'];
 $result= strtolower($result);
 
-if (strpos($result, "home") == "true")
-header ('Location: /?search=home.php;
+if ($result=="dropbox")
+header ('Location: http://www.dropbox.com');
 ?>
 </body>
 </html>
