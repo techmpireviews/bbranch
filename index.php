@@ -33,6 +33,7 @@
 							border-radius: 7px;
 							box-shadow: 0px;
 							text-shadow: none;
+		      					float: left;
 							border: solid;
 							background-color: #ffffff;
 							border-color: #000000;
@@ -45,6 +46,7 @@
 							width: 168px;
 							border-radius: 7px;
 							box-shadow: 0px;
+		      					float: left;
 							text-shadow: none;
 							color: #F0F0F0;
 							background-color: #989696;
