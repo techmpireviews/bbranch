@@ -5,7 +5,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=9" />
 	<title>Bauman Red Angus</title>
 	<link rel="icon" href="images/headlogo.png">
-	<link rel="stylesheet" type="text/css" href="style1.css">
+	<link rel="stylesheet" type="text/css" href="/style1.css">
 </head>
 <header>
 	<p id="menu"><span id="links"><a class="a1" href="">Home </a>&nbsp;&nbsp;&nbsp;&nbsp; <a class="a1" href="/cattle.php">Cattle </a>&nbsp;&nbsp;&nbsp;&nbsp; <a class="a1" href="/horses.php">Horses </a>&nbsp;&nbsp;&nbsp; <a class="a1" href="/contact.php">Contact Us </a>&nbsp;&nbsp;&nbsp; <a class="a1" href="/about.php">About Us</a></span><img id="menulogo" src="images/menu.png"></p>
