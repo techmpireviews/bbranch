@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<meta http-equiv="Content-Type" charset=UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=9" />
 	<title>Bauman Red Angus</title>
 	<link rel="icon" href="images/headlogo.png">
 	<link rel="stylesheet" type="text/css" href="style1.css">
