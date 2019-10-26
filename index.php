@@ -20,6 +20,29 @@
 				<form autocomplete="off" id="searchform" action="search.php" method="post">
 					<input autocomplete="off" id="searchid" type="text" name="search">
 					<style type="text/css">
+					#infotop {
+					  position: absolute;
+				 	  top: 15px;
+					  right: 4px;
+       					  clip-path: circle(21px at 272px 22px);
+	   			          background-color: #ffffff;
+					  transition: 0.5s;
+					  padding: 5px 8px;
+					  z-index: 15;
+					}
+
+				     #infotop:hover {
+					position: absolute;
+					top: 15px;
+					right: 4px;
+					border-radius: 30px;
+					display: inline-block;
+					background-color: #ffffff;
+        				clip-path: circle(100%);
+        				transition: 0.5s;
+					padding: 5px 8px;
+					z-index: 15;
+				      }
 						#searchid {
 							height: 17px;
 							width: 168px;
