@@ -21,7 +21,12 @@
 			<span id="infotop"><div class="textinfo">
 				<form autocomplete="off" id="searchform" action="search.php" method="post">
 					<input autocomplete="off" id="searchid" type="text" name="search">
-					<style type="text/css">
+					
+					<input id="submitid" type="submit" name="submit" value="search">
+				</form></div>
+				<img id="searchimg" src="images/searchicon.png"></span>
+		</div>
+<style type="text/css">
 #infotop {
 	position: absolute;
 	top: 15px;
@@ -91,10 +96,6 @@
 							outline: none;
 						}
 					</style>
-					<input id="submitid" type="submit" name="submit" value="search">
-				</form></div>
-				<img id="searchimg" src="images/searchicon.png"></span>
-		</div>
 		<div class="middle">
 			<iframe id="fr1" width="940px" height="450px" frameborder="0px" src="frames/middle.html"></iframe>
 		</div>
